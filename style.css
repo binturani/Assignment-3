@@ -3,6 +3,19 @@ body {
 }
 
 .center-align {
-
+    text-align: center;
     margin: 50px 220px;
+}
+
+footer {
+    background-color: black;
+    text-align: center;
+    color: aliceblue;
+    padding-top: 50px;
+}
+
+.company img {
+    width: 100px;
+    margin: 10px 30px;
+
 }
